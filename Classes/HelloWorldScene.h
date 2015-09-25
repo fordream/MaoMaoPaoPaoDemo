@@ -2,6 +2,7 @@
 #define __HELLOWORLD_SCENE_H__
 
 #include "cocos2d.h"
+#include "Hills.h"
 
 class HelloWorld : public cocos2d::Layer
 {
@@ -10,6 +11,7 @@ public:
     cocos2d::Sprite* player;
     cocos2d::Sprite* cameraTarget;
     cocos2d::Follow* camera;
+    Hills* hills;
 
     virtual bool init();
     

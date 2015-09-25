@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/external/Box2D/Dynamics/b2World.cpp \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Dynamics/b2World.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Common/b2Math.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Common/b2Settings.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Common/b2BlockAllocator.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Common/b2StackAllocator.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Dynamics/b2ContactManager.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Collision/b2BroadPhase.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Collision/b2Collision.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Collision/b2DynamicTree.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Common/b2GrowableStack.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Dynamics/b2WorldCallbacks.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Dynamics/b2TimeStep.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Dynamics/b2Body.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Collision/Shapes/b2Shape.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Dynamics/b2Fixture.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Dynamics/b2Island.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Dynamics/Joints/b2PulleyJoint.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Dynamics/Joints/b2Joint.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2Contact.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2ContactSolver.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Collision/Shapes/b2CircleShape.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Collision/Shapes/b2EdgeShape.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Collision/Shapes/b2ChainShape.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Collision/Shapes/b2PolygonShape.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Collision/b2TimeOfImpact.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Collision/b2Distance.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Common/b2Draw.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/Box2D/Common/b2Timer.h

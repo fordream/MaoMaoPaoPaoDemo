@@ -38,7 +38,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
     auto glview = director->getOpenGLView();
     if(!glview) {
 #if (CC_TARGET_PLATFORM == CC_PLATFORM_WIN32) || (CC_TARGET_PLATFORM == CC_PLATFORM_MAC) || (CC_TARGET_PLATFORM == CC_PLATFORM_LINUX)
-        glview = GLViewImpl::createWithRect("MaoMaoPaoPaoDemo", Rect(0, 0, designResolutionSize.width, designResolutionSize.height));
+        glview = GLViewImpl::createWithRect("MaoMaoPaoPaoDemo", Rect(0, 0, designResolutionSize.width * 2, designResolutionSize.height * 2));
 #else
         glview = GLViewImpl::create("MaoMaoPaoPaoDemo");
 #endif

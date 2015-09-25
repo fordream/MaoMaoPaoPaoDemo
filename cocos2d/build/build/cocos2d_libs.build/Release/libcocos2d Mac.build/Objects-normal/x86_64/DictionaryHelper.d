@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/cocos/editor-support/cocostudio/DictionaryHelper.cpp \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../cocos/editor-support/cocostudio/DictionaryHelper.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/document.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/reader.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/rapidjson.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/allocators.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/encodings.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/internal/meta.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/internal/stack.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/internal/strtod.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/internal/ieee754.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/internal/biginteger.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/internal/diyfp.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/internal/pow10.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/error/error.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../external/json/internal/strfunc.h \
+  /Users/Tim/MaoMaoPaoPaoDemo/cocos2d/build/../cocos/editor-support/cocostudio/CocosStudioExport.h
